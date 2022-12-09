@@ -12,13 +12,5 @@ marshmallow
 marshmallow-objects>=2.0.0
 parse-accept-language
 pydantic
-pyquerystring
-typing-extensions
-cryptography
-email_validator
-lxml
-pysaml2
-python-jose
-python-ldap
 zxcvbn
 PyJWT==2.1.0
