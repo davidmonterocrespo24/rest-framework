@@ -17,9 +17,8 @@ typing-extensions
 cryptography
 email_validator
 lxml
-pyjwt
 pysaml2
 python-jose
 python-ldap
 zxcvbn
-PyJWT
+PyJWT==2.1.0
