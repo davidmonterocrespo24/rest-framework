@@ -14,3 +14,4 @@ parse-accept-language
 pydantic
 zxcvbn
 PyJWT==2.1.0
+pyquerystring
